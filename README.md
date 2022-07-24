@@ -10,3 +10,5 @@ You can click the Preview link to take a look at your changes.
 I started learning during the 2020 times. back then i tried starting with Roblox Lua (Learning went pear shaped there)
 Around two years later i found the Godot game engine.
 I wound say my experience on Godot was way better in Learning and progress.
+
+- Im also exploring other coding languages at my own pace. 
