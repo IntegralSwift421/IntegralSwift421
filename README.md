@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @IntegralSwift421
 - 👀 I’m interested in creating games. it's what got me into learning script
 - 🌱 I’m currently learning GDscript: a custom language similar to Python used in the Godot game engine.
-- 📫 How to reach me:
-        Gmail: franciscozp421@gmail.com
 
 <!---
 IntegralSwift421/IntegralSwift421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
